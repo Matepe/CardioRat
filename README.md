@@ -1,4 +1,5 @@
-# MC_Inalambrico
+# CardioRat
+
 Este proyecto contiene lo necesario para implementar un monitor cardíaco inálambrico para Ratas
 
 **Versión prototipo 1:**
